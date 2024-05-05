@@ -3,3 +3,15 @@
     text-transform:
 
 }
+
+.card{
+    background-color:#a0c5f6;
+    border-radius:3px;
+    border: 1px solid #a1a1a1;
+    padding:20px;
+    width:50px;
+}
+
+.card .pic .card-img-top{
+    width: 100%;
+}
